@@ -4,7 +4,9 @@ This project is a tool to check the strength of your MPIN based on demographic i
 
 ## Screenshot
 
-![MPIN Strength Checker Screenshot](![image](https://github.com/user-attachments/assets/29717837-4727-4a07-8e27-8ff530b42de8)
+![MPIN Strength Checker Screenshot](Screenshot
+/Screenshot 2025-01-29 000854.png)
+(
 )
 
 ## Features
